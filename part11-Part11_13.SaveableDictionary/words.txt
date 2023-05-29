@@ -1,0 +1,6 @@
+komputer:computer
+computer:komputer
+siema:hello
+pasta:makaron
+makaron:pasta
+hello:siema
